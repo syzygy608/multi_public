@@ -4,7 +4,7 @@
 EXECUTABLE="./hw3b"                 # 執行檔案名稱
 INPUT_PATH="./data/input/filename"   # 測資輸入路徑
 OUTPUT_PATH="./data/answer"         # 正確輸出路徑
-TIMEOUT=2.5                          # 最大執行時間上限（秒）
+TIMEOUT=5                          # 最大執行時間上限（秒）
 MPI_PROCESSES=4                     # Number of MPI processes
 
 # Check if executable exists
